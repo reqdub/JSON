@@ -1,0 +1,15 @@
+{
+	"ID" : 1,
+	"Severity" "Major",
+	"Priority" : "High",
+	"Title" : "An error message  and error icon appears when scanning a face with a weak mobile signal"
+	"Enviroment" : "Android 13",
+	"Preconditions" : {
+		"1" : "Launch the App",
+		"2" : "Tap on Scan button"
+	}
+	"Steps" : "Follow the instructions on the screen",
+	"Expected_Result" : "Scanning finished successfully without errors and the server icon does not appear",
+	"Actual_Result" : "Scanning finished with error message and error icon appears",
+	"Attachments" : "Link"
+}
